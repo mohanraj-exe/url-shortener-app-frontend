@@ -1,0 +1,15 @@
+.main{
+    background-color: lightgrey;
+}
+
+.heading{
+    padding:10px;
+    margin:10px;
+    text-align: center;
+}
+
+.home{
+    /* padding:15px; */
+    align-content: center;
+    color:blueviolet;
+}
